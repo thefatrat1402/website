@@ -1,0 +1,40 @@
+Essay on programming langues avaliable before C
+
+Programming languages have evolved significantly over the years,
+ with each new language building upon the successes and failures of its predecessors.
+ Before the development of the C programming language,
+ there were several other programming languages that were used to write code.
+ In this essay, we will explore some of the most significant programming languages that came before C.
+
+One of the earliest programming languages was Fortran,
+ which was developed in the 1950s. Fortran was designed for scientific and engineering applications and
+ was the first high-level programming language to gain widespread use.
+ Fortran was designed to be easy to read and write,
+ which made it an ideal choice for scientific programming.
+
+Another significant programming language that came before C was COBOL.
+ COBOL was developed in the late 1950s and was designed for business applications.
+ COBOL was an acronym for "Common Business Oriented Language" and
+ was designed to be easy to read and understand for non-programmers.
+ COBOL was widely used in the banking and finance industries,
+ and many legacy systems still use COBOL code to this day.
+
+In the 1970s, Pascal was developed as a teaching language.
+ Pascal was designed to be a simple, easy-to-learn language for new programmers.
+ Pascal was widely used in computer science courses and was the inspiration
+ for many other programming languages that came later, including C.
+
+Assembly language is a low-level programming language that directly controls a computer's hardware.
+ It uses mnemonics to represent computer instructions and provides efficient and precise programming but
+ requires a deep understanding of computer architecture. It is still used today in certain applications,
+ such as embedded systems programming, operating system development, and reverse engineering.
+
+ 
+In conclusion, there were several significant programming languages that came before C,
+ each with its strengths and weaknesses. These languages paved the way for modern programming languages,
+ including C, and continue to influence the development of programming languages to this day.
+ The evolution of programming languages is a testament to the ever-evolving nature of 
+ computer science and the constant need for innovation and improvement.
+
+
+

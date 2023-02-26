@@ -1,0 +1,36 @@
+Essay on programming languages avaliable after C
+
+Since the creation of the C programming language in 1972,
+many programming languages have been developed that build upon the
+features of C while also introducing new features and improvements.
+In this essay, we will explore some of the programming languages that have become popular since the creation of C.
+
+One of the most widely used programming languages after C is C++. C++ was developed in the early 1980s as an extension of C,
+adding support for object-oriented programming and introducing several other features 
+like templates and operator overloading. C++ is widely
+used for game development, system programming, and high-performance computing.
+
+Java is another programming language that became popular in the 1990s,
+and it was designed to be a platform-independent language,
+meaning that code written in Java can run on any platform without modification.
+Java was designed to be simple, easy to use, and safe,
+and it is widely used for enterprise applications, web development, and mobile development.
+
+Python is a high-level programming language that was created in the late 1980s.
+It is known for its simplicity and ease of use,
+and it has become one of the most popular programming languages
+for data science, artificial intelligence, and machine learning.
+Python has a vast collection of libraries and tools that make it easy to use for a wide variety of applications.
+
+JavaScript is a programming language that was developed in the mid-1990s and is primarily used for web development.
+JavaScript is widely used for creating interactive user interfaces,
+adding dynamic content to web pages, and creating browser-based games.
+
+In conclusion, many programming languages have been developed since the creation of C,
+each with their unique strengths and weaknesses. C++ introduced object-oriented programming and other advanced features,
+while Java became the de facto language for enterprise applications and web development.
+Python is widely used for data science and machine learning, while JavaScript is the primary language for web development.
+As technology continues to evolve, we can expect to see new programming languages emerge 
+that will build upon the features of existing languages while also introducing new concepts and ideas.
+
+
